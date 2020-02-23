@@ -1,0 +1,8 @@
+E:\WorkSpace\repos\AspNetCoreSample\BasicAutenticationSample\Microsoft.AspNetCore.Authentication.Basic\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.deps.json
+E:\WorkSpace\repos\AspNetCoreSample\BasicAutenticationSample\Microsoft.AspNetCore.Authentication.Basic\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.dll
+E:\WorkSpace\repos\AspNetCoreSample\BasicAutenticationSample\Microsoft.AspNetCore.Authentication.Basic\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.pdb
+E:\WorkSpace\repos\AspNetCoreSample\BasicAutenticationSample\Microsoft.AspNetCore.Authentication.Basic\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.csprojAssemblyReference.cache
+E:\WorkSpace\repos\AspNetCoreSample\BasicAutenticationSample\Microsoft.AspNetCore.Authentication.Basic\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.AssemblyInfoInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\BasicAutenticationSample\Microsoft.AspNetCore.Authentication.Basic\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.AssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\BasicAutenticationSample\Microsoft.AspNetCore.Authentication.Basic\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.dll
+E:\WorkSpace\repos\AspNetCoreSample\BasicAutenticationSample\Microsoft.AspNetCore.Authentication.Basic\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.pdb

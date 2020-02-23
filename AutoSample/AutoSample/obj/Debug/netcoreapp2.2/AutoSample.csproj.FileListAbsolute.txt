@@ -1,0 +1,14 @@
+F:\Projects\_net Core\AutoSample\AutoSample\bin\Debug\netcoreapp2.2\AutoSample.deps.json
+F:\Projects\_net Core\AutoSample\AutoSample\bin\Debug\netcoreapp2.2\AutoSample.runtimeconfig.json
+F:\Projects\_net Core\AutoSample\AutoSample\bin\Debug\netcoreapp2.2\AutoSample.runtimeconfig.dev.json
+F:\Projects\_net Core\AutoSample\AutoSample\bin\Debug\netcoreapp2.2\AutoSample.dll
+F:\Projects\_net Core\AutoSample\AutoSample\bin\Debug\netcoreapp2.2\AutoSample.pdb
+F:\Projects\_net Core\AutoSample\AutoSample\obj\Debug\netcoreapp2.2\AutoSample.csprojAssemblyReference.cache
+F:\Projects\_net Core\AutoSample\AutoSample\obj\Debug\netcoreapp2.2\AutoSample.csproj.CoreCompileInputs.cache
+F:\Projects\_net Core\AutoSample\AutoSample\obj\Debug\netcoreapp2.2\AutoSample.RazorAssemblyInfo.cache
+F:\Projects\_net Core\AutoSample\AutoSample\obj\Debug\netcoreapp2.2\AutoSample.RazorAssemblyInfo.cs
+F:\Projects\_net Core\AutoSample\AutoSample\obj\Debug\netcoreapp2.2\AutoSample.AssemblyInfoInputs.cache
+F:\Projects\_net Core\AutoSample\AutoSample\obj\Debug\netcoreapp2.2\AutoSample.AssemblyInfo.cs
+F:\Projects\_net Core\AutoSample\AutoSample\obj\Debug\netcoreapp2.2\AutoSample.RazorTargetAssemblyInfo.cache
+F:\Projects\_net Core\AutoSample\AutoSample\obj\Debug\netcoreapp2.2\AutoSample.dll
+F:\Projects\_net Core\AutoSample\AutoSample\obj\Debug\netcoreapp2.2\AutoSample.pdb

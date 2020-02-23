@@ -1,0 +1,14 @@
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\bin\Debug\netcoreapp3.1\AppConsoleClient.exe
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\obj\Debug\netcoreapp3.1\AppConsoleClient.csprojAssemblyReference.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\obj\Debug\netcoreapp3.1\AppConsoleClient.AssemblyInfoInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\obj\Debug\netcoreapp3.1\AppConsoleClient.AssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\bin\Debug\netcoreapp3.1\AppConsoleClient.deps.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\bin\Debug\netcoreapp3.1\AppConsoleClient.runtimeconfig.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\bin\Debug\netcoreapp3.1\AppConsoleClient.runtimeconfig.dev.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\bin\Debug\netcoreapp3.1\AppConsoleClient.dll
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\bin\Debug\netcoreapp3.1\AppConsoleClient.pdb
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\bin\Debug\netcoreapp3.1\AspNetCore.Http.Extensions.dll
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\obj\Debug\netcoreapp3.1\AppConsoleClient.csproj.CopyComplete
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\obj\Debug\netcoreapp3.1\AppConsoleClient.dll
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AppConsoleClient\obj\Debug\netcoreapp3.1\AppConsoleClient.pdb

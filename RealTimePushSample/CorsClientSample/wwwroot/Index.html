@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div>
+        UserName：<input type="text" id="userInput" />
+        Message：<input type="text" id="messageInput" />
+        <input type="button" id="sendButton" value="Send" />
+    </div>
+    <ul id="messagesList"></ul>
+    <script src="http://localhost:55859/lib/signalr.min.js"></script>
+    <script>
+        var connection = new signalR.HubConnectionBuilder()
+            .withUrl("http://localhost:55859/chatHub")
+            .build();
+        //监听一个事件，这个事件可以在服务端通过名称调用，往客户端推送数据
+        connection.on("ReceiveMessage", function (user, message) {
+            var msg = user + " says " + message;
+            var li = document.createElement("li");
+            li.textContent = msg;
+            document.getElementById("messagesList").appendChild(li);
+        });
+
+        connection.start().catch(function (err) {
+            return console.error(err.toString());
+        });
+
+
+        document.getElementById("sendButton").addEventListener("click", function (event) {
+            var user = document.getElementById("userInput").value;
+            var message = document.getElementById("messageInput").value;
+            connection.invoke("SendMessage", user, message).catch(function (err) {
+                return console.error(err.toString());
+            });
+
+            event.preventDefault();
+        });
+
+    </script>
+</body>
+</html>

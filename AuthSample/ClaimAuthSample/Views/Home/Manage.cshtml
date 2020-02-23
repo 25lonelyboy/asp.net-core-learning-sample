@@ -1,0 +1,8 @@
+﻿<div>
+    <h1>@User.Identity.Name  欢迎你!</h1>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <a asp-action="LogOut">注销</a>
+    }
+
+</div>

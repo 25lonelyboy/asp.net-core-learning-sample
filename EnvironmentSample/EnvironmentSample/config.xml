@@ -1,0 +1,9 @@
+﻿<SiteConfigs>
+  <SiteConfig name="jack">
+    <!--不能使用name作为节点-->
+    <age>11</age>
+  </SiteConfig>
+  <SiteConfig name="jerry">
+    <age>22</age>
+  </SiteConfig>
+</SiteConfigs>

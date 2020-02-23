@@ -1,0 +1,11 @@
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\bin\Debug\netcoreapp2.2\DotNetClientSample.deps.json
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\bin\Debug\netcoreapp2.2\DotNetClientSample.runtimeconfig.json
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\bin\Debug\netcoreapp2.2\DotNetClientSample.runtimeconfig.dev.json
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\bin\Debug\netcoreapp2.2\DotNetClientSample.dll
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\obj\Debug\netcoreapp2.2\DotNetClientSample.csprojAssemblyReference.cache
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\obj\Debug\netcoreapp2.2\DotNetClientSample.csproj.CoreCompileInputs.cache
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\obj\Debug\netcoreapp2.2\DotNetClientSample.AssemblyInfoInputs.cache
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\obj\Debug\netcoreapp2.2\DotNetClientSample.AssemblyInfo.cs
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\bin\Debug\netcoreapp2.2\DotNetClientSample.pdb
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\obj\Debug\netcoreapp2.2\DotNetClientSample.dll
+F:\Projects\_net Core\RealTimePushSample\DotNetClientSample\obj\Debug\netcoreapp2.2\DotNetClientSample.pdb

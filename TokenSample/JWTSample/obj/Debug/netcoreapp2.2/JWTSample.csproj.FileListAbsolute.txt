@@ -1,0 +1,10 @@
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\bin\Debug\netcoreapp2.2\JWTSample.deps.json
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\bin\Debug\netcoreapp2.2\JWTSample.runtimeconfig.json
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\bin\Debug\netcoreapp2.2\JWTSample.runtimeconfig.dev.json
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\bin\Debug\netcoreapp2.2\JWTSample.dll
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\obj\Debug\netcoreapp2.2\JWTSample.AssemblyInfoInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\obj\Debug\netcoreapp2.2\JWTSample.AssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\obj\Debug\netcoreapp2.2\JWTSample.csprojAssemblyReference.cache
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\bin\Debug\netcoreapp2.2\JWTSample.pdb
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\obj\Debug\netcoreapp2.2\JWTSample.dll
+E:\WorkSpace\repos\AspNetCoreSample\TokenSample\JWTSample\obj\Debug\netcoreapp2.2\JWTSample.pdb

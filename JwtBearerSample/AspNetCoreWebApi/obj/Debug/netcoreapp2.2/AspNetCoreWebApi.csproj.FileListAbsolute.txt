@@ -1,0 +1,17 @@
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\bin\Debug\netcoreapp2.2\appsettings.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\bin\Debug\netcoreapp2.2\AspNetCoreWebApi.deps.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\bin\Debug\netcoreapp2.2\AspNetCoreWebApi.runtimeconfig.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\bin\Debug\netcoreapp2.2\AspNetCoreWebApi.runtimeconfig.dev.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\bin\Debug\netcoreapp2.2\AspNetCoreWebApi.dll
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\bin\Debug\netcoreapp2.2\AspNetCoreWebApi.pdb
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\obj\Debug\netcoreapp2.2\AspNetCoreWebApi.csprojAssemblyReference.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\obj\Debug\netcoreapp2.2\AspNetCoreWebApi.RazorAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\obj\Debug\netcoreapp2.2\AspNetCoreWebApi.RazorAssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\obj\Debug\netcoreapp2.2\AspNetCoreWebApi.AssemblyInfoInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\obj\Debug\netcoreapp2.2\AspNetCoreWebApi.AssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\obj\Debug\netcoreapp2.2\AspNetCoreWebApi.RazorTargetAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\obj\Debug\netcoreapp2.2\AspNetCoreWebApi.dll
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\obj\Debug\netcoreapp2.2\AspNetCoreWebApi.pdb
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\AspNetCoreWebApi\bin\Debug\netcoreapp2.2\key.public.json

@@ -1,0 +1,17 @@
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\bin\Debug\netcoreapp2.2\appsettings.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\bin\Debug\netcoreapp2.2\IdentityProvider.deps.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\bin\Debug\netcoreapp2.2\IdentityProvider.runtimeconfig.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\bin\Debug\netcoreapp2.2\IdentityProvider.runtimeconfig.dev.json
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\bin\Debug\netcoreapp2.2\IdentityProvider.dll
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\bin\Debug\netcoreapp2.2\IdentityProvider.pdb
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\obj\Debug\netcoreapp2.2\IdentityProvider.csprojAssemblyReference.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\obj\Debug\netcoreapp2.2\IdentityProvider.RazorAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\obj\Debug\netcoreapp2.2\IdentityProvider.RazorAssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\obj\Debug\netcoreapp2.2\IdentityProvider.AssemblyInfoInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\obj\Debug\netcoreapp2.2\IdentityProvider.AssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\obj\Debug\netcoreapp2.2\IdentityProvider.RazorTargetAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\obj\Debug\netcoreapp2.2\IdentityProvider.dll
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\obj\Debug\netcoreapp2.2\IdentityProvider.pdb
+E:\WorkSpace\repos\AspNetCoreSample\JwtBearerSample\IdentityProvider\bin\Debug\netcoreapp2.2\key.private.json

@@ -1,0 +1,13 @@
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\obj\Debug\netcoreapp2.2\WebSocketSample.csproj.CoreCompileInputs.cache
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\obj\Debug\netcoreapp2.2\WebSocketSample.RazorAssemblyInfo.cache
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\obj\Debug\netcoreapp2.2\WebSocketSample.RazorAssemblyInfo.cs
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\obj\Debug\netcoreapp2.2\WebSocketSample.AssemblyInfoInputs.cache
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\obj\Debug\netcoreapp2.2\WebSocketSample.AssemblyInfo.cs
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\bin\Debug\netcoreapp2.2\WebSocketSample.deps.json
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\bin\Debug\netcoreapp2.2\WebSocketSample.runtimeconfig.json
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\bin\Debug\netcoreapp2.2\WebSocketSample.runtimeconfig.dev.json
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\bin\Debug\netcoreapp2.2\WebSocketSample.dll
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\bin\Debug\netcoreapp2.2\WebSocketSample.pdb
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\obj\Debug\netcoreapp2.2\WebSocketSample.RazorTargetAssemblyInfo.cache
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\obj\Debug\netcoreapp2.2\WebSocketSample.dll
+F:\Projects\_net Core\RealTimePushSample\WebSocketSample\obj\Debug\netcoreapp2.2\WebSocketSample.pdb

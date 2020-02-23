@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNetCore.Authentication.Basic</id>
+    <version>1.0.0</version>
+    <authors>Microsoft.AspNetCore.Authentication.Basic</authors>
+    <owners>Microsoft.AspNetCore.Authentication.Basic</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="Microsoft.AspNetCore.Authentication" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\WorkSpace\repos\AspNetCoreSample\BasicAutenticationSample\Microsoft.AspNetCore.Authentication.Basic\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.dll" target="lib\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Basic.dll" />
+  </files>
+</package>

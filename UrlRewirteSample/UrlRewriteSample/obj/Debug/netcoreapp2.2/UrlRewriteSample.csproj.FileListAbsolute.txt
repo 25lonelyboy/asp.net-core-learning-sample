@@ -1,0 +1,14 @@
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\bin\Debug\netcoreapp2.2\UrlRewriteSample.deps.json
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\bin\Debug\netcoreapp2.2\UrlRewriteSample.runtimeconfig.json
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\bin\Debug\netcoreapp2.2\UrlRewriteSample.runtimeconfig.dev.json
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\bin\Debug\netcoreapp2.2\UrlRewriteSample.dll
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\bin\Debug\netcoreapp2.2\UrlRewriteSample.pdb
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\obj\Debug\netcoreapp2.2\UrlRewriteSample.csprojAssemblyReference.cache
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\obj\Debug\netcoreapp2.2\UrlRewriteSample.csproj.CoreCompileInputs.cache
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\obj\Debug\netcoreapp2.2\UrlRewriteSample.RazorAssemblyInfo.cache
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\obj\Debug\netcoreapp2.2\UrlRewriteSample.RazorAssemblyInfo.cs
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\obj\Debug\netcoreapp2.2\UrlRewriteSample.AssemblyInfoInputs.cache
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\obj\Debug\netcoreapp2.2\UrlRewriteSample.AssemblyInfo.cs
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\obj\Debug\netcoreapp2.2\UrlRewriteSample.RazorTargetAssemblyInfo.cache
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\obj\Debug\netcoreapp2.2\UrlRewriteSample.dll
+F:\Projects\_net Core\UrlRewirteSample\UrlRewriteSample\obj\Debug\netcoreapp2.2\UrlRewriteSample.pdb

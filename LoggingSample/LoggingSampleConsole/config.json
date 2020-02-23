@@ -1,0 +1,9 @@
+{
+  "Logging": {
+    "IncluedScope": false,
+    "LogLevel": {
+      "Default": "Error",
+      "Zerodo":  "Debug"
+    }
+  }
+}

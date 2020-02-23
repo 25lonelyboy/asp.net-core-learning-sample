@@ -1,0 +1,13 @@
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\bin\Debug\netcoreapp2.2\LoggingSampleConsole.deps.json
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\bin\Debug\netcoreapp2.2\LoggingSampleConsole.runtimeconfig.json
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\bin\Debug\netcoreapp2.2\LoggingSampleConsole.runtimeconfig.dev.json
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\bin\Debug\netcoreapp2.2\LoggingSampleConsole.dll
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\obj\Debug\netcoreapp2.2\LoggingSampleConsole.csprojAssemblyReference.cache
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\obj\Debug\netcoreapp2.2\LoggingSampleConsole.csproj.CoreCompileInputs.cache
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\obj\Debug\netcoreapp2.2\LoggingSampleConsole.AssemblyInfoInputs.cache
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\obj\Debug\netcoreapp2.2\LoggingSampleConsole.AssemblyInfo.cs
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\bin\Debug\netcoreapp2.2\LoggingSampleConsole.pdb
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\obj\Debug\netcoreapp2.2\LoggingSampleConsole.dll
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\obj\Debug\netcoreapp2.2\LoggingSampleConsole.pdb
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\bin\Debug\netcoreapp2.2\config.json
+F:\Projects\_net Core\LoggingSample\LoggingSampleConsole\bin\Debug\netcoreapp2.2\nlog.config

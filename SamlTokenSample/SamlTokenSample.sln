@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamlTokenSample", "SamlTokenSample\SamlTokenSample.csproj", "{BAB0ED9F-8972-4D03-94FA-6AD3127BEBED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB0ED9F-8972-4D03-94FA-6AD3127BEBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB0ED9F-8972-4D03-94FA-6AD3127BEBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB0ED9F-8972-4D03-94FA-6AD3127BEBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB0ED9F-8972-4D03-94FA-6AD3127BEBED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA5D1162-3E1D-4C33-8D30-061789AC0C2C}
+	EndGlobalSection
+EndGlobal

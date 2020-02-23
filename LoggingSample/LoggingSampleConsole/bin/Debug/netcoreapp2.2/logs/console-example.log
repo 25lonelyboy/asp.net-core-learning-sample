@@ -1,0 +1,6 @@
+2019/08/06 21:51:56.979|TRACE|this is a trace 08/06/2019 21:51:56 1. |LoggingSampleConsole.Program|date=2019/8/6 21:51:56, level=1
+2019/08/06 21:51:57.088|DEBUG|this is a debug. |LoggingSampleConsole.Program|EventId_Id=200, EventId=200
+2019/08/06 21:51:57.095|INFO|this is a info. |LoggingSampleConsole.Program|
+2019/08/06 21:51:57.095|WARN|this is a warning. |LoggingSampleConsole.Program|
+2019/08/06 21:51:57.095|ERROR|this is a error. |LoggingSampleConsole.Program|
+2019/08/06 21:51:57.095|FATAL|this is Critical |LoggingSampleConsole.Program|

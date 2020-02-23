@@ -1,0 +1,11 @@
+F:\Projects\_net Core\CloudSample\CloudSample\bin\Debug\netcoreapp2.2\CloudSample.deps.json
+F:\Projects\_net Core\CloudSample\CloudSample\bin\Debug\netcoreapp2.2\CloudSample.runtimeconfig.json
+F:\Projects\_net Core\CloudSample\CloudSample\bin\Debug\netcoreapp2.2\CloudSample.runtimeconfig.dev.json
+F:\Projects\_net Core\CloudSample\CloudSample\bin\Debug\netcoreapp2.2\CloudSample.dll
+F:\Projects\_net Core\CloudSample\CloudSample\bin\Debug\netcoreapp2.2\CloudSample.pdb
+F:\Projects\_net Core\CloudSample\CloudSample\obj\Debug\netcoreapp2.2\CloudSample.csprojAssemblyReference.cache
+F:\Projects\_net Core\CloudSample\CloudSample\obj\Debug\netcoreapp2.2\CloudSample.csproj.CoreCompileInputs.cache
+F:\Projects\_net Core\CloudSample\CloudSample\obj\Debug\netcoreapp2.2\CloudSample.AssemblyInfoInputs.cache
+F:\Projects\_net Core\CloudSample\CloudSample\obj\Debug\netcoreapp2.2\CloudSample.AssemblyInfo.cs
+F:\Projects\_net Core\CloudSample\CloudSample\obj\Debug\netcoreapp2.2\CloudSample.dll
+F:\Projects\_net Core\CloudSample\CloudSample\obj\Debug\netcoreapp2.2\CloudSample.pdb

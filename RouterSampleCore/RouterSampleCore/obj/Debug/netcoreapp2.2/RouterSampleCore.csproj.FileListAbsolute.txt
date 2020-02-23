@@ -1,0 +1,32 @@
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.deps.json
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.runtimeconfig.json
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.runtimeconfig.dev.json
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.dll
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.pdb
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.csprojAssemblyReference.cache
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.csproj.CoreCompileInputs.cache
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.RazorAssemblyInfo.cache
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.RazorAssemblyInfo.cs
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.AssemblyInfoInputs.cache
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.AssemblyInfo.cs
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.RazorTargetAssemblyInfo.cache
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.dll
+F:\Projects\_net Core\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.pdb
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\appsettings.json
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.deps.json
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.runtimeconfig.json
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.runtimeconfig.dev.json
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.dll
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\bin\Debug\netcoreapp2.2\RouterSampleCore.pdb
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.csprojAssemblyReference.cache
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.csproj.CoreCompileInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.RazorAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.RazorAssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.AssemblyInfoInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.AssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.RazorTargetAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.dll
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.pdb
+E:\WorkSpace\repos\AspNetCoreSample\RouterSampleCore\RouterSampleCore\obj\Debug\netcoreapp2.2\RouterSampleCore.genruntimeconfig.cache

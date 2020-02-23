@@ -1,0 +1,66 @@
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.deps.json
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.runtimeconfig.json
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.runtimeconfig.dev.json
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.dll
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.pdb
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.Views.dll
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.Views.pdb
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.csproj.CoreCompileInputs.cache
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorAssemblyInfo.cache
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorAssemblyInfo.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.AssemblyInfoInputs.cache
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.AssemblyInfo.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.TagHelpers.input.cache
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.TagHelpers.output.cache
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorCoreGenerate.cache
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorTargetAssemblyInfo.cache
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorTargetAssemblyInfo.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.Views.pdb
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.dll
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.pdb
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.csproj.CopyComplete
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.csprojAssemblyReference.cache
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+F:\Projects\_net Core\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Manage.g.cshtml.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\appsettings.json
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.deps.json
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.runtimeconfig.json
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.runtimeconfig.dev.json
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.dll
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.pdb
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.Views.dll
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\bin\Debug\netcoreapp2.2\ClaimAuthSample.Views.pdb
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.csprojAssemblyReference.cache
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorAssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.AssemblyInfoInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.AssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.TagHelpers.input.cache
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.TagHelpers.output.cache
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorCoreGenerate.cache
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Manage.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorTargetAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.RazorTargetAssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.Views.pdb
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.dll
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.pdb
+E:\WorkSpace\repos\AspNetCoreSample\AuthSample\ClaimAuthSample\obj\Debug\netcoreapp2.2\ClaimAuthSample.csproj.CopyComplete

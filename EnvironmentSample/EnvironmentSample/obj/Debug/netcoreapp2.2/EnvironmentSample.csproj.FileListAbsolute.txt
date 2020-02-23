@@ -1,0 +1,33 @@
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.deps.json
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.runtimeconfig.json
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.runtimeconfig.dev.json
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.dll
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.pdb
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.csprojAssemblyReference.cache
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.csproj.CoreCompileInputs.cache
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.RazorAssemblyInfo.cache
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.RazorAssemblyInfo.cs
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.AssemblyInfoInputs.cache
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.AssemblyInfo.cs
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.RazorTargetAssemblyInfo.cache
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.dll
+F:\Projects\_net Core\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.pdb
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\appsettings.json
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\config.json
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.deps.json
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.runtimeconfig.json
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.runtimeconfig.dev.json
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.dll
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\bin\Debug\netcoreapp2.2\EnvironmentSample.pdb
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.csprojAssemblyReference.cache
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.csproj.CoreCompileInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.RazorAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.RazorAssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.AssemblyInfoInputs.cache
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.AssemblyInfo.cs
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.RazorTargetAssemblyInfo.cache
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.dll
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.pdb
+E:\WorkSpace\repos\AspNetCoreSample\EnvironmentSample\EnvironmentSample\obj\Debug\netcoreapp2.2\EnvironmentSample.genruntimeconfig.cache
